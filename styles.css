@@ -6,13 +6,16 @@
 body {
     font-family: Arial;
     margin: 0;
+    background-image: url(image/壁纸.jpg);
+    background-size: 160px;
+    height: 1800px;
 }
 
 /* 标题 */
 .header {
     padding: 80px;
     text-align: center;
-    background: #1abc9c;
+    
     color: white;
 }
 
