@@ -7,8 +7,8 @@ body {
     font-family: Arial;
     margin: 0;
     background-image: url(image/壁纸.jpg);
-    background-size: 160px;
-    height: 1800px;
+    background-position: top center;
+    background-repeat: no-repeat;
 }
 
 /* 标题 */
@@ -82,7 +82,21 @@ body {
     width: 100%;
     padding: 20px;
 }
-
+.fakeimg1 {
+    background-color: #a1f1b2;
+    width: 100%;
+    padding: 20px;
+}
+.fakeimg2 {
+    background-color: #f79fee;
+    width: 100%;
+    padding: 20px;
+}
+.fakeimg3 {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+}
 /* 底部 */
 .footer {
     padding: 20px;
